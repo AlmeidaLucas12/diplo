@@ -2,3 +2,6 @@ pan
 leche 
 manteca
 yogurt
+totrta
+coca
+agua

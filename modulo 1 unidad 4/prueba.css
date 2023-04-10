@@ -1,0 +1,33 @@
+h2 {
+  color: red; /*esto es un comentario en css*/ /* color de la tipografia */
+  font-size: 30px; /*tamaño de la letra*/
+}
+
+h1 {
+  color: green;
+  background-color: yellow; /*remarcado fondo de la linea de texto*/
+  text-align: center; /*alinear*/
+  text-transform: uppercase; /*todo mayuscula*/
+}
+
+p {
+  color: blue;
+  line-height: 25px; /*espacio entre linea y linea de parrafo*/
+}
+.destacados {
+  color: orange;
+  font-weight: bold; /*peso - en este caso negrita*/
+  font-style: italic;
+  font-family: Arial; /*familia tipografia*/
+}
+
+#caja {
+  background-color: yellow;
+  width: 350px;
+  height: 350px;
+  /*border: 3px solid black;*/
+  border-right: 3px dashed red;
+  padding: 20px;
+  box-sizing: border-box; /*para que no se desordene*/
+  margin-left: 100px;
+}

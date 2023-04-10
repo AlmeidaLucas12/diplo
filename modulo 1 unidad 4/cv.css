@@ -1,0 +1,16 @@
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+
+#caja {
+  background-color: #e797fa;
+  width: 250px;
+}
+p {
+  text-align: center;
+}
+
+.destacado {
+  font-weight: bold;
+}

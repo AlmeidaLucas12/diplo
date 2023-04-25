@@ -1,0 +1,30 @@
+h1 {
+  color: #5f9d57;
+  text-align: center;
+}
+
+#caja {
+  background: rgb(74, 142, 92);
+  background: radial-gradient(
+    circle,
+    rgba(74, 142, 92, 0.4515056022408963) 29%,
+    rgba(95, 157, 87, 0.4431022408963585) 51%,
+    rgba(31, 142, 16, 0.333858543417367) 85%
+  );
+  width: 300px;
+  border-radius: 50px;
+}
+p {
+  text-align: center;
+}
+
+.destacado {
+  font-weight: bold;
+}
+img {
+  border-radius: 200px;
+  box-shadow: 0 0 20px #5f9d57;
+}
+h3 {
+  text-align: center;
+}

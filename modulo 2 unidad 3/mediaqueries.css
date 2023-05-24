@@ -37,7 +37,7 @@ aside {
   width: 190px;
 }
 @media (max-width: 800px) {
-  #contenedor {
+  #rcontenedor {
     width: 100%;
   }
   nav {
